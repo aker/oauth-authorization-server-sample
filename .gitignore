@@ -1,0 +1,14 @@
+build/
+*.idea/
+*.iml
+*.log
+*.pid
+out
+target
+.classpath
+.project
+.settings
+.vscode
+bin
+dist
+log
